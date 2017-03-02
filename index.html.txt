@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<body>
+<h1> Godfrey Electric </h1>
+<p> The solution for all your electrical needs </p>
+</body>
+</html>
